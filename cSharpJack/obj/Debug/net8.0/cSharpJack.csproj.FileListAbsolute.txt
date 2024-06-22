@@ -1,0 +1,14 @@
+C:\Users\dylan\Desktop\BlackJack\cSharpJack\obj\Debug\net8.0\cSharpJack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dylan\Desktop\BlackJack\cSharpJack\obj\Debug\net8.0\cSharpJack.AssemblyInfoInputs.cache
+C:\Users\dylan\Desktop\BlackJack\cSharpJack\obj\Debug\net8.0\cSharpJack.AssemblyInfo.cs
+C:\Users\dylan\Desktop\BlackJack\cSharpJack\obj\Debug\net8.0\cSharpJack.csproj.CoreCompileInputs.cache
+C:\Users\dylan\Desktop\BlackJack\cSharpJack\bin\Debug\net8.0\cSharpJack.exe
+C:\Users\dylan\Desktop\BlackJack\cSharpJack\bin\Debug\net8.0\cSharpJack.deps.json
+C:\Users\dylan\Desktop\BlackJack\cSharpJack\bin\Debug\net8.0\cSharpJack.runtimeconfig.json
+C:\Users\dylan\Desktop\BlackJack\cSharpJack\bin\Debug\net8.0\cSharpJack.dll
+C:\Users\dylan\Desktop\BlackJack\cSharpJack\bin\Debug\net8.0\cSharpJack.pdb
+C:\Users\dylan\Desktop\BlackJack\cSharpJack\obj\Debug\net8.0\cSharpJack.dll
+C:\Users\dylan\Desktop\BlackJack\cSharpJack\obj\Debug\net8.0\refint\cSharpJack.dll
+C:\Users\dylan\Desktop\BlackJack\cSharpJack\obj\Debug\net8.0\cSharpJack.pdb
+C:\Users\dylan\Desktop\BlackJack\cSharpJack\obj\Debug\net8.0\cSharpJack.genruntimeconfig.cache
+C:\Users\dylan\Desktop\BlackJack\cSharpJack\obj\Debug\net8.0\ref\cSharpJack.dll
