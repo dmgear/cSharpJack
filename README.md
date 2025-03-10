@@ -1,1 +1,1 @@
- A simple blackjack game that runs in the terminal. Whenever I learn a new language, I like to come back to this project and build a simple object-oriented black jack game to learn the basics of the language.
+A simple blackjack game that runs in the terminal. Whenever I learn a new language, I like to come back to this project and build a simple object-oriented black jack game to learn the basics of the language.
